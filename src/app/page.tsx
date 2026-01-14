@@ -61,7 +61,7 @@ export default function UnderDevelopmentPage() {
                 />
               </div>
 
-              {/* Content Below */}
+              {/* Content Below.. */}
               <div className="w-full space-y-12 flex flex-col items-start ">
                 <div className="flex items-center justify-between w-full gap-10">
                   <div className="space-y-4 flex flex-col text-start">
@@ -220,8 +220,8 @@ export default function UnderDevelopmentPage() {
               Thank you for your patience. We&apos;ll be launching very soon!
             </p>
             <p className="text-sm text-gray-500">
-              Nepal Stroke Association © 2026 • Dedicated to Stroke Prevention
-              & Care
+              Nepal Stroke Association © 2026 • Dedicated to Stroke Prevention &
+              Care
             </p>
           </div>
         </div>

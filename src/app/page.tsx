@@ -3,7 +3,7 @@
 import Image from "next/image";
 
 const CONTACT_INFO = {
-  phone: "+977-1-4241066",
+  phone: "+977-9851404070",
   email: "info@strokenepal.org",
 };
 

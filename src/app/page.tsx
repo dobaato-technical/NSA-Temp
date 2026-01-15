@@ -4,9 +4,7 @@ import Image from "next/image";
 
 const CONTACT_INFO = {
   phone: "+977-1-4241066",
-  email: "info@nepalstrokeassociation.org",
-  address: "Kathmandu, Nepal",
-  emergencyHotline: "1166",
+  email: "info@strokenepal.org",
 };
 
 export default function UnderDevelopmentPage() {
